@@ -1,0 +1,4 @@
+plan resolusi 
+- saya mau konsisten membuat project kedepannya
+- saya mau membuat aplikasi menggunakan api
+- saya mau membuat aplikasi toko online

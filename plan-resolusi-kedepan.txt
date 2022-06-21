@@ -2,6 +2,7 @@ plan resolusi
 - saya mau konsisten membuat project kedepannya
 - saya mau membuat aplikasi menggunakan api
 - saya mau membuat aplikasi toko online
+^ membaut toko menggunakan konten management sistem
 - mau fokus belajar pemograman sampai bisa
 - membuat video untuk pembelajaran 
 - menjadi fullstack developer 

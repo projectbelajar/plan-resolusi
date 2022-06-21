@@ -4,3 +4,5 @@ plan resolusi
 - saya mau membuat aplikasi toko online
 - mau fokus belajar pemograman sampai bisa
 - membuat video untuk pembelajaran 
+- menjadi fullstack developer 
+- harus bisa php, mysql, html, css, laravel, freamework, javascript, 

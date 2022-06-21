@@ -1,8 +1,11 @@
 plan resolusi 
 - saya mau konsisten membuat project kedepannya
 - saya mau membuat aplikasi menggunakan api
+^ membuat youtube untuk konten ini 
 - saya mau membuat aplikasi toko online
 - mau fokus belajar pemograman sampai bisa
+^ mau membuat konten youtube
 - membuat video untuk pembelajaran 
 - menjadi fullstack developer 
 - harus bisa php, mysql, html, css, laravel, freamework, javascript, 
+^ kedepannya saya mau belajar tentang python

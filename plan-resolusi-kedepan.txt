@@ -1,5 +1,6 @@
 plan resolusi 
 - saya mau konsisten membuat project kedepannya
+^ mau membuat konten untuk materi ini 
 - saya mau membuat aplikasi menggunakan api
 ^ membuat youtube untuk konten ini 
 - saya mau membuat aplikasi toko online

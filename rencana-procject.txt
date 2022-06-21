@@ -1,4 +1,6 @@
 - membuat toko online
+* membuat toko online dalam bentuk html dan css
+* membuat tolo online menggunakan wordpress dengan metode cms
 - membaut project yang menarik
 - membuat konten youtube untuk berbagi materi
 - melanjarkan materi tentang teknologi kedepannya.
